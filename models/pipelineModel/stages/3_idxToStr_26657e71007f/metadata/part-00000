@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1487232826817,"sparkVersion":"1.6.1","uid":"idxToStr_26657e71007f","paramMap":{"inputCol":"prediction","labels":["LARCENY/THEFT","MINOR CRIMES","NON-CRIMINAL","OTHER OFFENSES","ASSAULT","VEHICLE THEFT","VANDALISM","WARRANTS","BURGLARY","SUSPICIOUS OCC"],"outputCol":"predictedLabel"}}
